@@ -1,1 +1,1 @@
-# ok-guys
+# skin cancer detection
